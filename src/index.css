@@ -19,6 +19,7 @@ code {
 .stage {
   display: flex; 
   flex-direction: row;
+  background-color: dimgrey;
 }
 
 .participants {
